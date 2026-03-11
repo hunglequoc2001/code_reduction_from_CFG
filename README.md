@@ -6,7 +6,9 @@ code for feeding into LLMs or SOTA models as shown in this [paper](https://ase20
 ## Set up
 
 
-To initiate, get requirement in conda:
+To initiate, crawl data from [this repository](https://github.com/hunglequoc2001/code_crawl) 
+
+Get requirement in conda:
 
 ```
 pip install -r requirement.txt
@@ -64,3 +66,5 @@ sunit.composeSunit()
 print(sunit.source_code)
 
 ```
+
+Finaly, store data and run through [this repository](https://github.com/hunglequoc2001/quantized_backdoor) for code summarization 
