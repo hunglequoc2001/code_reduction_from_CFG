@@ -45,6 +45,7 @@ while reduce 20% of input token (our result lie in 'code line extract')
 
 ![result](362278274_1418276679029152_6943412717295744549_n.png)
 
+To use more updated models, use this [repository](https://github.com/hunglequoc2001/quantized_backdoor) for code summarization
 
 To generate sunit extraction from java files to java file, input file must not contain class or packages, only 1 method. 
 ### For quick start:
@@ -67,4 +68,3 @@ print(sunit.source_code)
 
 ```
 
-Finaly, store data and run through [this repository](https://github.com/hunglequoc2001/quantized_backdoor) for code summarization 
